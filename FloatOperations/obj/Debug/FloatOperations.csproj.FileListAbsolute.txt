@@ -1,0 +1,15 @@
+C:\Users\siddartha.boddu\Documents\Visual Studio 2015\Projects\FloatMultiplication\FloatMultiplication\obj\Debug\FloatOperations.csprojResolveAssemblyReference.cache
+C:\Users\siddartha.boddu\Documents\Visual Studio 2015\Projects\FloatMultiplication\FloatMultiplication\obj\Debug\FloatMultiplication.exe
+C:\Users\siddartha.boddu\Documents\Visual Studio 2015\Projects\FloatMultiplication\FloatMultiplication\obj\Debug\FloatMultiplication.pdb
+C:\Users\siddartha.boddu\Documents\Visual Studio 2015\Projects\FloatMultiplication\FloatMultiplication\bin\Debug\FloatMultiplication.exe.config
+C:\Users\siddartha.boddu\Documents\Visual Studio 2015\Projects\FloatMultiplication\FloatMultiplication\bin\Debug\FloatMultiplication.exe
+C:\Users\siddartha.boddu\Documents\Visual Studio 2015\Projects\FloatMultiplication\FloatMultiplication\bin\Debug\FloatMultiplication.pdb
+C:\Users\siddartha.boddu\Documents\Visual Studio 2015\Projects\FloatOperations\FloatMultiplication\bin\Debug\FloatMultiplication.exe.config
+C:\Users\siddartha.boddu\Documents\Visual Studio 2015\Projects\FloatOperations\FloatMultiplication\obj\Debug\FloatMultiplication.exe
+C:\Users\siddartha.boddu\Documents\Visual Studio 2015\Projects\FloatOperations\FloatMultiplication\obj\Debug\FloatMultiplication.pdb
+C:\Users\siddartha.boddu\Documents\Visual Studio 2015\Projects\FloatOperations\FloatOperations\bin\Debug\FloatMultiplication.exe.config
+C:\Users\siddartha.boddu\Documents\Visual Studio 2015\Projects\FloatOperations\FloatOperations\obj\Debug\FloatMultiplication.exe
+C:\Users\siddartha.boddu\Documents\Visual Studio 2015\Projects\FloatOperations\FloatOperations\obj\Debug\FloatMultiplication.pdb
+C:\Users\siddartha.boddu\Documents\Visual Studio 2015\Projects\FloatOperations\FloatOperations\bin\Debug\FloatMultiplication.exe
+C:\Users\siddartha.boddu\Documents\Visual Studio 2015\Projects\FloatOperations\FloatOperations\bin\Debug\FloatMultiplication.pdb
+C:\Users\siddartha.boddu\Documents\Visual Studio 2015\Projects\FloatOperations\FloatOperations\obj\Debug\FloatOperations.csprojResolveAssemblyReference.cache
